@@ -2,8 +2,8 @@
 Contributors: pawaryogesh1989, clarionwpdeveloper
 Tags: Automatically Empty Trash, empty trash, empty trash wordpress, wordpress empty trash, schedule empty trash, empty trash schedule, schedule empty trash wordpress, empty trash schedule wordpress, wordpress schedule empty trash, recycle bin, wordpress recycle bin, recycle bin wordpress.
 Requires at least: 3.0.1
-Tested up to: 4.9.8
-Stable tag: 4.9
+Tested up to: 5.0.3
+Stable tag: 5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
