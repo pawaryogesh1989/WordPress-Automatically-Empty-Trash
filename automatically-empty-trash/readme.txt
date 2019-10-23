@@ -1,13 +1,13 @@
 === Automatically Empty Trash ===
 Contributors: pawaryogesh1989, clarionwpdeveloper
-Tags: Automatically Empty Trash, empty trash, empty trash wordpress, wordpress empty trash, schedule empty trash, empty trash schedule, schedule empty trash wordpress, empty trash schedule wordpress, wordpress schedule empty trash, recycle bin, wordpress recycle bin, recycle bin wordpress.
-Requires at least: 3.0.1
-Tested up to: 5.0.3
+Tags: empty trash, schedule trash, empty trash wordpress, wordpress empty trash, empty trash schedule, schedule empty trash wordpress, empty trash schedule wordpress, wordpress schedule empty trash, recycle bin, wordpress recycle bin, recycle bin wordpress.
+Requires at least: 4.6
+Tested up to: 5.2.4
 Stable tag: 5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Use this plugin to schedule Automatically Empty Trash after set number of days.
+Use this plugin to schedule Automatically Empty the Trash after set number of days.
 
 == Description ==
  
@@ -19,6 +19,23 @@ This plugin can be used Automatically Empty Trash after the number of days the u
 * Automatically Empty Trash after number of days.
 
 For more information please refer the screenshots.
+
+== Screenshots ==
+
+1. screenshot-1 - Option to Configure number of days.
+1. screenshot-2 - Moved menu under "Settings" Menu.
+
+== Changelog ==
+
+= 2.1.0 =
+* Minor fixes for compatibility with PHP 7.3 and latest version of WordPress
+
+= 2.0 =
+* Moved menu from sidebar and added it under "Settings menu" (See screenshot 2).
+* Text/label changes for better understanding
+
+= 1.0 =
+* Added template for settings page.
 
 == Installation ==
 
