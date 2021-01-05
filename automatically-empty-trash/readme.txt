@@ -1,8 +1,8 @@
 === Automatically Empty Trash ===
 Contributors: pawaryogesh1989, clarionwpdeveloper
 Tags: empty trash, schedule trash, empty trash wordpress, wordpress empty trash, empty trash schedule, schedule empty trash wordpress, empty trash schedule wordpress, wordpress schedule empty trash, recycle bin, wordpress recycle bin, recycle bin wordpress.
-Requires at least: 4.6
-Tested up to: 5.2.4
+Requires at least: 4.9
+Tested up to: 5.6
 Stable tag: 5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -26,6 +26,8 @@ For more information please refer the screenshots.
 1. screenshot-2 - Moved menu under "Settings" Menu.
 
 == Changelog ==
+= 2.2.0 =
+* Minor fixes for compatibility latest version of WordPress
 
 = 2.1.0 =
 * Minor fixes for compatibility with PHP 7.3 and latest version of WordPress

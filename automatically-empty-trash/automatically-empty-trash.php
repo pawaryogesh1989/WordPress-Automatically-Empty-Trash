@@ -7,7 +7,7 @@
   Plugin Name: Automatically Empty Trash
   Plugin URI: http://www.clariontechnologies.co.in
   Description: Automatically Empty Trash
-  Version: 2.1.0
+  Version: 2.2.0
   Author: Yogesh Pawar, Clarion Technologies
   Author URI: http://www.clariontechnologies.co.in
   License: GPLv2 or later
